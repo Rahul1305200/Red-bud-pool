@@ -1,0 +1,15 @@
+# local-only material, not part of the published site
+/revisions/
+/preview/
+/assets/fb-raw/
+/*.cjs
+/BRAND-NOTES.md
+/DESIGN-BENCHMARK.md
+/site.js
+/styles.css
+/assets/redbud-logo-full.png
+/assets/redbud-logo-transparent.png
+/assets/pool-668-project.jpg
+/assets/work/new-build-dig.jpg
+/assets/work/pool-redo.jpg
+/assets/work/vacuuming.jpg
